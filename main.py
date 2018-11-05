@@ -103,4 +103,4 @@ if tmp_username == admin_username and tmp_password == admin_password:
     admin = Admin(tmp_username, tmp_password)
     admin.menu()
 else:
-    print('Username or Password error!')
+    print('Username or Password r!')
