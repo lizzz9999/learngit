@@ -18,7 +18,8 @@ class Card(object):
     """
     Card Class
     haha
-    ai,,
+    hehe
+
     """
     def __init__(self, card_number, password, balance):
         self.card_number = card_number
