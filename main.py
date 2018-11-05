@@ -6,6 +6,7 @@ class Person(object):
     Person Class
 
     haha
+    eee
     """
     def __init__(self, name, id_card, phone_number, card):
         self.name = name
