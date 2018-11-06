@@ -23,6 +23,7 @@ class Card(object):
     hehe
     ...
     heo
+<<<<<<< HEAD
 =======
 ..
 
