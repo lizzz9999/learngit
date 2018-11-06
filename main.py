@@ -23,7 +23,7 @@ class Card(object):
     hehe
     ...
     heo
-=======
+
 
     """
     def __init__(self, card_number, password, balance):
