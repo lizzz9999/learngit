@@ -24,6 +24,7 @@ class Card(object):
     ...
     heo
 =======
+..
 
     """
     def __init__(self, card_number, password, balance):
