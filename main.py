@@ -23,9 +23,11 @@ class Card(object):
     hehe
     ...
     heo
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 ..
+
 
     """
     def __init__(self, card_number, password, balance):
